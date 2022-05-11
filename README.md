@@ -1,2 +1,2 @@
-# library-management-system-project-in-python-using-sqlite
-library management system project in python using sqlite
+# Library-Management-System-Project-in-Python-using-sqlite
+Library Management System Project in Python using sqlite
